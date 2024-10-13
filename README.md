@@ -28,8 +28,8 @@ Day 19: :star2::star2: \
 Day 20: \
 Day 21: :star2: \
 Day 22: :star2::star2: \
-Day 23:
-Day 24:
-Day 25:
+Day 23: :star2::star2: \
+Day 24: \
+Day 25: \
 
 
